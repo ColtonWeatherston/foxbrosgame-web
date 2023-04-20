@@ -1,2 +1,1 @@
-# foxbrosgame.coltonw.ca
- Web Build of my game called Fox Bros
+# Fox Bros Game - Web Build
