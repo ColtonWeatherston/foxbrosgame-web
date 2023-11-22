@@ -1,5 +1,5 @@
 # Fox Bros Game - Web Build
-[foxbrosgame.coltonw.ca](https://foxbrosgame.coltonw.ca)
+[foxbrosgame.coltonw.dev](https://foxbrosgame.coltonw.dev)
 
 ## Controls
 - **esc** - pause menu (change settings, or restart game)
