@@ -5,9 +5,9 @@
 - **esc** - pause menu (change settings, or restart game)
 
 ### Player 1
-- **W** - move left
+- **A** - move left
 - **D** - move right
-- **spacebar** - jump
+- **W** or **spacebar** - jump
 
 ### Player 2
 Keyboard
